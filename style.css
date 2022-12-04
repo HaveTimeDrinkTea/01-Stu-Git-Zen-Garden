@@ -187,10 +187,11 @@ Intro
   }
 .intro .summary {
   font-size: 100%;
-  color: #ffffff;
+  color: #666666; /* original is #ffffff*/
   width: 60%;
   float: left;
-  background: #c879b2 url(icons-3-pack.svg);
+  /* background: #c879b2 url(icons-3-pack.svg); */
+  background: #ff0;
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 101%;
